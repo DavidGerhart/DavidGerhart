@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidGerhart tech refugee on the S. Coast of Oregon.
 - 👀 I’m interested in Healthcare Analytics and am running a survey: https://bit.ly/ChildhoodSurvey
 - 🌱 I’m currently learning ... Mastodon
-- 💞️ I’m looking to collaborate on ... Contribute tol Organizational Development Projects
+- 💞️ I’m looking to collaborate on ... Contribute to Organizational Development Projects
 - 📫 How to reach me ... through github.com or at davidgerhart.com
 
 <!---
